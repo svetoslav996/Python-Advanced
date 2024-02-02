@@ -1,0 +1,6 @@
+{"username": "kiro", "password": "123456", "firstName": "kiro", "lastName": "girov"}
+{"username": "kiro", "password": "123456", "firstName": "kiro", "lastName": "girov"}
+{"username": "qwerty", "password": "123456", "firstName": "qwertyu", "lastName": "1234ertg"}
+{"username": "qawert", "password": "qwerdf", "firstName": "asdf", "lastName": "wertfy"}
+{"username": "werty", "password": "wertfgy", "firstName": "werdftg", "lastName": "wedfg"}
+{"username": "", "password": "", "firstName": "", "lastName": ""}
